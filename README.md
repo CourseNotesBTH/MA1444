@@ -37,9 +37,9 @@ There are some different type of files that you may come across in each course n
 
 | File name | Labels | Description |
 | --------- | :----: | ----------- |
-| Notes week 1.pdf | 📝  🇸🇪  | Lecture notes from 2016, the first week of class|
-| Notes week 2.pdf | 📝  🇸🇪  | Lecture notes from 2016, the second week of class|
-| Notes week 3.pdf | 📝  🇸🇪  | Lecture notes from 2016, the this week of class|
+| Notes week 1.pdf | ⚠️  🇸🇪  | Lecture notes from 2016, the first week of class|
+| Notes week 2.pdf | ⚠️  🇸🇪  | Lecture notes from 2016, the second week of class|
+| Notes week 3.pdf | ⚠️  🇸🇪  | Lecture notes from 2016, the third week of class|
 
 # Purpose of the repository
 <a name="purpose"></a>
