@@ -2,10 +2,10 @@
   <img alt="Logo" src="https://github.com/CourseNotesBTH/MA1444/raw/master/logo.png">
 </p>
 
-MA1444 - Mathematical Analysis 1
+MA1444 - Calculus 1
 ======
 
-Course notes and the like for MA1444 - Mathematical Analysis 1
+Course notes and the like for MA1444 - Calculus 1
 
 [More courses](https://github.com/CourseNotesBTH) <br />
 See also [Programming Courses at BTH](https://github.com/ProgrammingCoursesBTH)
